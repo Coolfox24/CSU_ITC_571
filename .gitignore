@@ -2,13 +2,21 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Data Oriented/[Ll]ibrary/
+/Data Oriented/[Tt]emp/
+/Data Oriented/[Oo]bj/
+/Data Oriented/[Bb]uild/
+/Data Oriented/[Bb]uilds/
+/Data Oriented/[Ll]ogs/
+/Data Oriented/[Uu]ser[Ss]ettings/
+
+/Object Oriented/[Ll]ibrary/
+/Object Oriented/[Tt]emp/
+/Object Oriented/[Oo]bj/
+/Object Oriented/[Bb]uild/
+/Object Oriented/[Bb]uilds/
+/Object Oriented/[Ll]ogs/
+/Object Oriented/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
